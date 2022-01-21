@@ -1,0 +1,36 @@
+body{
+    background:deepskyblue !important;
+}
+.div1, .div2{
+background:lightcyan ;
+padding:10px ;
+border-radius: 15px;
+float:none;
+margin-bottom: 10px;
+margin-left: 20.5%;
+}
+#button1{
+width:50%;
+}
+#divcake{
+background:burlywood;
+border-radius:10px;
+border-top:10px;
+border-top: 10px ridge cornflowerblue;
+padding: 10px;
+float:none;
+text-align:left;
+}
+#inputcake2000{
+    width:60%;
+
+}
+#buttoncakes{
+    width:30%;
+}
+#label1, #label2{
+display:inline-block;
+margin-left: 10px;
+margin-right: 10px;
+color:goldenrod;
+}
